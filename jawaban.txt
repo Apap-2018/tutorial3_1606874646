@@ -1,0 +1,6 @@
+1. Data Berhasil Ditambahkan
+2. terjadi error karena kurang lengkapnya parameter yang dimasukkan yaitu amount
+3. data tersebut muncul karena sudah diinisiasikan di perintah yang pertama
+4. terjadi error karena input add belum diinisiasikan
+5. Data tersebut muncul
+6. Semua data Car muncul
