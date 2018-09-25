@@ -32,7 +32,7 @@ public class CarController {
 		CarModel archive = mobilService.getCarDetail(id);
 		if (archive == null){
 			model.addAttribute("error",true);
-		return "view-car";
+		return "eror";
 		}
 		
 		model.addAttribute("car",archive);
