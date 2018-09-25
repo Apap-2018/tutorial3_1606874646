@@ -1,6 +1,10 @@
-1. Data Berhasil Ditambahkan
-2. terjadi error karena kurang lengkapnya parameter yang dimasukkan yaitu amount
+Muhammad Dimas Praharsa
+1606874646
+APAP-A
+
+1. Tidak terjadi error, terdapat tulisan "Data Berhasil Ditambahkan"
+2. terjadi error karena kurang lengkapnya parameter yang dimasukkan yaitu amount yang required = true
 3. data tersebut muncul karena sudah diinisiasikan di perintah yang pertama
-4. terjadi error karena input add belum diinisiasikan
+4. terjadi error karena input add mobil belum diinisiasikan/belum ditambah
 5. Data tersebut muncul
 6. Semua data Car muncul
